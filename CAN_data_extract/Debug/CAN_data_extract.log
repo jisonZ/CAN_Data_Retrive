@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CAN_data_extract.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CAN_data_extract.vcxproj -> \\engin-labs.m.storage.umich.edu\haochenz\windat.v2\Documents\visual studio 2015\Projects\CAN_data_extract\Debug\CAN_data_extract.exe
+  CAN_data_extract.vcxproj -> \\engin-labs.m.storage.umich.edu\haochenz\windat.v2\Documents\visual studio 2015\Projects\CAN_data_extract\Debug\CAN_data_extract.pdb (Partial PDB)
